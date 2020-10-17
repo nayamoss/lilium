@@ -44,6 +44,13 @@ img {
   border-radius: $border-radius;
 }
 
+img .align-right{
+  display: block;
+  margin: 0 auto;
+  max-height: 200px;
+  border-radius: $border-radius;
+}
+
 blockquote {
   padding: 1.5em;
   margin: 0;
