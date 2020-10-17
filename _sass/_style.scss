@@ -44,9 +44,15 @@ img {
   border-radius: $border-radius;
 }
 
-img .align-right{
+.align-right{
   display: block;
   margin: 0 auto;
+
+}
+
+.aboutimg {
+  float: right;
+  margin: 0 15px 15px 0;
   max-height: 200px;
   border-radius: $border-radius;
 }
