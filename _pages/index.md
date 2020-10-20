@@ -20,8 +20,6 @@ Expect to read about IT, Security, AI, Psychology, Art, Creativity, Ramen, and m
   Take a look at <span style="font-weight: bold">[[Naya's first seed]]</span> to get started on your exploration.
 </p>
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
-
 <style>
   .wrapper {
     max-width: 60em;
