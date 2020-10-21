@@ -236,6 +236,18 @@ legend {
   white-space: normal; /* 1 */
 }
 
+.column {
+  float: left;
+  width: 40%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 /**
  * Add the correct vertical alignment in Chrome, Firefox, and Opera.
  */
