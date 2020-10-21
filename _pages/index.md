@@ -15,8 +15,8 @@ permalink: /
 Expect to read about IT, Security, AI, Books, Psychology, Art, Creativity, Ramen, and more!
 </p>
 
-<p style="padding: 3em 1em; background: #CBD7CB; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Naya's First Seed]]</span> to get started on your exploration.
+<p style="padding: 2em 1em; background: #CBD7CB; border-radius: 4px;">
+  Take a look at <span style="font-weight: bold">[[Naya's First Seed]] or my first book[[Don't Unplug]]</span> to get started on your exploration.
 </p>
 
 <style>

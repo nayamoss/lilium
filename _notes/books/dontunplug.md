@@ -1,5 +1,5 @@
 ---
-title: Don't Unplug by Chris Dancy
+title: Don't Unplug
 image: /assets/dontunplug.jpg
 ---
 
