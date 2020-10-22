@@ -6,4 +6,8 @@ permalink: /now
 
 # Now
 
-Soon I will add my new information. The goal is to hook this page up to airtable and my overall garden. Check back soon! For now, check out
+💼 I'm working as as the Founder of Frauvis, Founder of Namos Labs, and Freelance Infosec Officer
+
+📚 Rereading [[Don't Unplug]]
+
+🌍 Located in Eastern EU
