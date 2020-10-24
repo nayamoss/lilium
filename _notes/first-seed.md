@@ -1,11 +1,11 @@
 ---
-title: First Seed
+title: 👶🏾 First Seed
 ---
 
-### Welcome!
+### Welcome
 
-This is my first seed aka note! Take a look at some others:
+This is my first seed aka note!
 
-[[Build In Public]]
-[[Coding]]
+Take a look at some other notes:
+
 [[Don't Unplug]]

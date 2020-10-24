@@ -38,6 +38,24 @@
   <meta property="og:image" content="{{ site.url }}{{ page.image }}">
   {% endif %}
 
+  {% if page.keywords %}
+<meta name="keywords" content="{{ page.keywords | join: ', ' | escape }}">
+{% endif %}
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@bossnayamoss">
+  <meta name="twitter:title" content="{{ page.title }}">
+
+{% if page.description %}
+  <meta name="twitter:description"
+    content="{{ page.meta_description }}">
+{% else %}
+  <meta name="twitter:description"
+    content="{{ page.content | strip_html | xml_escape
+      | truncate: 200 }}">
+{% endif %}
+
+
   <title>
     {% if page.id == "home" %}
       {{ site.title }}
@@ -45,4 +63,5 @@
       {{ page.title }} &mdash; {{ site.title }}
     {% endif %}
   </title>
+  <a class="internal-link" href="/wiki"> View Wiki List</a>
 </head>

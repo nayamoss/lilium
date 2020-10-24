@@ -25,7 +25,7 @@ permalink: /
   </div>
   <div class="column">
     <p style="padding: 0.5em ; background: #CBD7CB; border-radius: 4px;">
-    Take a look at my [[First Seed]] or my first note on the book [[Don't Unplug]] to get started on your exploration.
+    Take a look at my [[👶🏾 First Seed]] or my first note on the book [[Don't Unplug]] to get started on your exploration.
     </p>
   </div>
 </div>

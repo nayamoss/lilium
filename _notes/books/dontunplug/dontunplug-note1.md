@@ -1,9 +1,13 @@
 ---
 title: Don't Unplug
 image: /assets/dontunplug.jpg
+keywords:
+  - cyborg
+  - most connected
+  - twitter
 ---
 
-### Don't Unplug by Chris Dancy
+### Note 1
 
 ![/assets/dontunplug.jpg]({{page.image}})
 
