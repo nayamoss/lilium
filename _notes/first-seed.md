@@ -1,5 +1,5 @@
 ---
-title: Naya's First Seed
+title: First Seed
 ---
 
 ### Welcome!

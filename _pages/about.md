@@ -10,4 +10,4 @@ I am a Creative Technologist and IT Pro. I have 10yrs of experience in Informati
 
 I have YEARS of digital gardening and quantified self data to share. I'll sort out how to migrate them here soon! 😅
 
-For now,check out my first book note [don't unplug](books/dontunplug){: .internal-link} in this here lilium.
+For now,check out my first book note [Don't Unplug](books/dontunplug){: .internal-link} in this here lilium.
