@@ -1,4 +1,4 @@
-# This site was used using the Digital garden Jekyll template
+# This is Naya's digital garden
 
 Use this template repository to get started with your own digital garden.
 
