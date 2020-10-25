@@ -4,6 +4,10 @@ include:             ['_pages']
 permalink:           pretty
 relative_permalinks: false
 
+url: "https://lilium.nayamoss.com" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
+
 plugins:
   - jekyll-last-modified-at
   #- jekyll-airtable_data

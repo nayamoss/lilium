@@ -10,10 +10,10 @@ permalink: /now
 
 🌍 Located in Eastern EU
 
-🚀 Spending 1 hour per day on [Descript Experts](https://descriptexperts.webflow.io)
+🚀 Spending 15mins per day on [Descript Experts](https://descriptexperts.webflow.io){:target="_blank"}
 
 🕵🏾‍♀️ Freelance Information Security Officer by day
 
-💼 I'm working as the Founder of Frauvis, Founder of Namos Labs, and Freelance Infosec Officer
+💼 I'm working as the Founder of Frauvis and Founder of Namos Labs
 
 This idea was taken from [Now Now Now](https://nownownow.com/about){:target="_blank"}
