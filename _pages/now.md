@@ -8,6 +8,8 @@ permalink: /now
 
 📚 Rereading [[Don't Unplug]]
 
+📚 Reading [[Getting Things Done - N01]]
+
 🌍 Located in Eastern EU
 
 🚀 Spending 15mins per day on [Descript Experts](https://descriptexperts.webflow.io){:target="_blank"}
