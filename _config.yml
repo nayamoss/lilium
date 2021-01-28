@@ -10,6 +10,7 @@ plugins:
 
 plugins:
   - jekyll-last-modified-at
+  - jekyll-seo-tag
   #- jekyll-airtable_data
   #- jekyll-airtable
 
