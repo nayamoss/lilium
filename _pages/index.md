@@ -15,10 +15,7 @@ permalink: /
     This website is a collection of my life learnings. Here you'll find notes about IT, Security, No Code, AI, Coding, Books, Psychology, Art, Creativity, Ramen, Daily thoughts, and more!
     </p>
     <p>
-    This website is <b>NOT</b> a blog 😊. It's a digital garden, a collection of my notes (in many cases unstructured) on all of the subjects previously mentioned.
-    </p>
-    <p>
-    Everyday, i take notes on podcast, courses, youtube video's, conversations, and more. They are saved in a text file on my local computer and some are in apple notes. Once a week I sort these my notes and organize them. 
+    This website is <b>NOT</b> a blog 😊. It's a digital garden, a collection of my notes (in many cases unstructured) on all of the subjects previously mentioned. Everyday, i take notes on podcast, courses, youtube video's, conversations, and more.
     </p>
   </div>
   <div class="column">
