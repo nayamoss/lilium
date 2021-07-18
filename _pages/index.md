@@ -14,8 +14,6 @@ permalink: /
     <p>
     This website is a collection of my life learnings. Here you'll find notes about IT, Security, No Code, AI, Coding, Books, Psychology, Art, Creativity, Ramen, Daily thoughts, and more!
     </p>
-  </div>
-  <div class="column">
     <p>
     This website is <b>NOT</b> a blog 😊. It's a digital garden, a collection of my notes (in many cases unstructured) on all of the subjects previously mentioned.
     </p>
